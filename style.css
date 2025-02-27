@@ -1,9 +1,12 @@
-
-
-body{
+body {
     background-image: url('https://preview.redd.it/vf2zetxq4cqa1.png?auto=webp&s=b1e04e132ba5473c122848dd6005322cca2481e1');
     background-size: cover;
     background-attachment: fixed;
     color: whitesmoke;
 }
 
+.grande {
+    font-size: 300px;
+    margin-bottom: 50%;
+    margin-top: 50%;
+}
