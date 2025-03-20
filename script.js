@@ -15,10 +15,8 @@ function executar()
 
 }
 
-console.log(true);
-console.log(false);
-console.log(2<3);
-console.log(2>3);
-console.log(2+3);
-console.log(2<=3);
-console.log(2==3)
+for (let i = 0; i < 500; i++) 
+{
+    console.log(i)
+    
+}
